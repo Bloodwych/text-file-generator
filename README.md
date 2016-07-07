@@ -1,4 +1,9 @@
 ##Text File Generator
+
+###Questions?
+
+Feel free to [open an issue](https://github.com/geditdk/text-file-generator/issues) on this repository (not on your fork!) if you have any questions about the task.
+
 ###Task
 
 Fork this repository and commit any source/files to your fork.
